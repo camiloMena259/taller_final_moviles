@@ -1,7 +1,7 @@
 /// Constantes de la aplicación
 class AppConstants {
   // API Configuration
-  static const String baseUrl = 'http://localhost:3000';
+  static const String baseUrl = 'http://192.168.18.10:3000';
   static const int connectionTimeout = 30000; // 30 segundos
   static const int receiveTimeout = 30000; // 30 segundos
 

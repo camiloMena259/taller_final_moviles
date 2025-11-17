@@ -1,3 +1,22 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "227fbcce-f22b-4b43-bb8a-37516ddf79e9",
+      "title": "Holaaa offline",
+      "completed": false,
+      "updatedAt": "2025-11-17T22:16:00.373183Z"
+    },
+    {
+      "id": "55c4d4e2-dd89-4c5e-b101-728aa5517892",
+      "title": "Entregar el dinero",
+      "completed": true,
+      "updatedAt": "2025-11-17T22:15:49.709847Z"
+    },
+    {
+      "id": "b815bd7d-8e8f-4045-9f54-c88d129272c4",
+      "title": "Tarea offline",
+      "completed": false,
+      "updatedAt": "2025-11-17T22:15:37.140388Z"
+    }
+  ]
 }
